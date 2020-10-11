@@ -36,7 +36,7 @@ int main()
 
 
 //char text[200];
-//ifstream file;                          --- читаэ файл
+//ifstream file;                  --- читаэ файл
 //file.open("text.txt");
 //file.getline(text, 200);
 //cout << text << endl;
